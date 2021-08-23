@@ -1,1 +1,1 @@
-### Modeling action potentials 
+## Modeling action potentials 
