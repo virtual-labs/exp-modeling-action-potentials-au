@@ -1,1 +1,1 @@
-### Modeling action potentials ## Experiment name
+### Modeling action potentials 
