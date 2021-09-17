@@ -1,0 +1,82 @@
+{
+  "version": 2.0,
+  "questions": [
+    
+    {
+      "question": "1. Origin of action potential: ",
+      "answers": {
+        "a": "Soma",
+        "b": "Dendrite",
+        "c": "Axon",
+        "d": "Hillock"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+  
+
+
+    {
+      "question": "2. Neuron acts like: ",
+      "answers": {
+        "a": "Integrator",
+        "b": "Resonator",
+        "c": "Oscillator",
+        "d": "None"
+       
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+
+
+    {
+      "question": "3. Which is an ATP dependent mechanism ? ",
+      "answers": {
+        "a": "Voltage-gated ionic channels",
+        "b": "Na-K ionic pump",
+        "c": "Both",
+        "d": "None"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+
+
+
+    {
+      "question": "4. When does the feedback loop gets interrupted ? ",
+      "answers": {
+        "a": "When sodium channels start to open",
+        "b": "When potassium channels start to close",
+        "c": " When sodium channels start to close",
+        "d": "None"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+
+
+
+    {
+      "question": "5. Equilibrium potential of each ion is calculated using: ",
+      "answers": {
+        "a": "Nernst potential",
+        "b": "Goldman-Hodgkin-Katz Equation",
+        "c": "Both",
+        "d": "none"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+
+
+  ]
+}
